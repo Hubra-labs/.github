@@ -22,7 +22,7 @@ Hubra is building the next generation of DeFi infrastructure on Solana. We deplo
 
 No more manual monitoring. No more chasing yields across fragmented protocols. One intelligent system, fully self-custody.
 
-**Building on Solana since 2022.**
+**Building on Solana since 2020.**
 
 ### What we're shipping
 
